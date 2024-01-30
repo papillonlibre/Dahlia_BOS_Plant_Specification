@@ -1,0 +1,4 @@
+- Anders brought up making a small-scale neural network that only classifies plant or not plant (binary classification) as a proof of concept to verify the neural architecture
+- Vanessa: rotate and flip images from training dataset -> much more data to train on (robust to different camera angles and conditions; more useful out in the field for planet scientists)
+- using Hugging Face Model (?) to do few shot learning as a possiblility (if we have time and an already performing model)
+- are they using classification loss as the metric for the Kaggle leaderboard?
